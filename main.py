@@ -13,11 +13,11 @@ dp = Dispatcher()
 STRMSG = '''
 Hello, I am a bot!
 
-Я был создан Анатолием White. 
+Я был создан A White. 
 Для того создан что бы передавать ваше эхо.
 Напиши мне что нибудь.
 
-I was created by Anatoly White. 
+I was created by A White. 
 I was created to transmit your echo.
 *Write me something.*
 '''
